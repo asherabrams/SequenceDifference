@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SequenceDifference", "SequenceDifference\SequenceDifference.pyproj", "{29EB89E7-13B2-4BBF-96D8-37A75F1D879C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29EB89E7-13B2-4BBF-96D8-37A75F1D879C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EB89E7-13B2-4BBF-96D8-37A75F1D879C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53F603BC-A149-4798-956E-43AFADC6A433}
+	EndGlobalSection
+EndGlobal
