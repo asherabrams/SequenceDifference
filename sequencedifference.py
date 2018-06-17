@@ -1,6 +1,6 @@
 # ASHER ABRAMS - BEGINNING PYTHON PROJECT - 2018-02-07
 # C 2018 | 5778 BY ASHER ABRAMS
-# This CLI program approximates the derivative from the definition, using the x+h,x-h method.
+# This CLI program approximates the derivative from the definition, using the x+h, x-h method.
 
 
 i = 0
