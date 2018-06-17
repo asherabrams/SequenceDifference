@@ -2,7 +2,6 @@
 # C 2018 | 5778 BY ASHER ABRAMS
 # This CLI program approximates the derivative from the definition, using the x+h, x-h method.
 
-
 i = 0
 x = 0.0
 y = 0.0
