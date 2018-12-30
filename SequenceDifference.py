@@ -17,9 +17,7 @@ import math
 def func01(x):
     return x**2
 # func01 can be any differentiable function supported by Python.
-# Current version shows x**2 but I've tested it with math.sin(x).
-# I am keeping the import math line as a placeholder and as a learning device,
-# because much of the code I'm likely to write will involve math.
+
 
 while (i <= iterations):
     x = x + 0.1
